@@ -4,11 +4,14 @@
 }
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(Mood\ Canvas\ Poster.png);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(back_ground_img.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     height: 100vh;
 }
+
 
 .navbar{
     width: 1200px;
